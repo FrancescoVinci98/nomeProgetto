@@ -1,3 +1,2 @@
 #cocode cocode corcodio
-#diostanco
-#dio boia
+#per favore
